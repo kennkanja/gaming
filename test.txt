@@ -1,0 +1,1 @@
+<img class="footer-graphics" src="images/footer.jpg" alt="">
